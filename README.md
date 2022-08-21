@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Chavez</h1>
-<h3 align="center">Nicaraguan Web developer</h3>
+<h3 align="center">A web developer who constantly wants to learn and grow professionally</h3>
 
 - 🌱 I’m currently learning **React**
 
